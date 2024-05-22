@@ -187,6 +187,8 @@ body {
 .products {
     margin-top: -37px;
     padding-bottom: 30px;
+    display:flex;
+    justify-content: space-between;
 }
 
 .products__content-main-card {
